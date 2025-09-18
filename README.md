@@ -57,11 +57,11 @@ This project provides an **AI-powered platform** that empowers vulnerable popula
    
 3. Install depedencies:
     pip install -r requirements.txt
-
+   
 4.Add your gemini api key in a .env file:
   GOOGLE_API_KEY=your_api_key_here
 
--->Usage
+## Usage
 
   Run the Streamlit app:
 
@@ -72,7 +72,7 @@ This project provides an **AI-powered platform** that empowers vulnerable popula
   in your browser.
 
 
-👨‍👩‍👧 Authors
+## 👨‍👩‍👧 Authors
 
 Built with ❤️ for humanitarian innovation.
 
