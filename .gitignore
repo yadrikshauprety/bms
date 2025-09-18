@@ -1,5 +1,4 @@
 __pycache_
 .env
 venv/
-requirements.txt
-models/
+
