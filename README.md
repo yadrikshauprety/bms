@@ -29,21 +29,6 @@ This project provides an **AI-powered platform** that empowers vulnerable popula
 
 ---
 
-## 📂 Project Structure
-
-📁 refugeehealthassistant
-├── app.py # Main Streamlit app
-├── db.py # Database logic (symptoms, vaccinations)
-├── speech.py # Voice input handler
-├── vision.py # Camera-based anemia check
-├── guidelines.json # Mini knowledge base for common symptoms
-├── clinics.json # List of nearby health services
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository:
@@ -61,6 +46,8 @@ This project provides an **AI-powered platform** that empowers vulnerable popula
 5. Add your gemini api key in a .env file:
    GOOGLE_API_KEY=your_api_key_here
 
+---
+
 ## Usage
 
   Run the Streamlit app:
@@ -71,9 +58,12 @@ This project provides an **AI-powered platform** that empowers vulnerable popula
   Then open http://localhost:8501
   in your browser.
 
+  ---
 
 ## 👨‍👩‍👧 Authors
 
 Built with ❤️ for humanitarian innovation.
 
 Team: VitalSync
+
+---
