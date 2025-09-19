@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Community Health Center A",
+    "address": "123 Main Street, City",
+    "phone": "123-456-7890",
+    "services": ["general", "vaccination", "anemia"]
+  },
+  {
+    "name": "Refugee Aid Clinic B",
+    "address": "45 Relief Lane, City",
+    "phone": "987-654-3210",
+    "services": ["diarrhea", "dehydration", "emergency"]
+  },
+  {
+    "name": "City Hospital C",
+    "address": "78 Health Blvd, City",
+    "phone": "555-555-5555",
+    "services": ["general", "emergency", "vaccination"]
+  }
+]
