@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+sounddevice
+vosk
+pyttsx3
+flask
+twilio
+pandas
