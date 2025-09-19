@@ -6,8 +6,7 @@ import sys
 # Map language codes to model folders
 model_paths = {
     "en": "models/vosk-model-small-en-0.15",
-    "hi": "models/vosk-model-small-hi-0.4",
-    "bn": "models/vosk-model-small-bn-0.4"
+    "hi": "models/vosk-model-small-hi-0.4"
 }
 
 def speech_to_text(lang="en", duration=5):
