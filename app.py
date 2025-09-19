@@ -22,7 +22,7 @@ twilio_auth_token = os.getenv("TWILIO_AUTH_TOKEN")
 
 # ---------------- Streamlit Page Config ----------------
 st.set_page_config(page_title="AI Refugee Health Assistant", page_icon="🩺", layout="wide")
-st.title("🩺 AI Virtual Health Assistant for Refugees")
+st.title("🩺 Vital Sync")
 
 # ---------------- Initialize Session State ----------------
 if "chat_history" not in st.session_state:

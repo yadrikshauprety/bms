@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "symptom": "Symptom_1",
+    "condition": "Arthritis",
+    "triage": "Emergency"
+  },
+  {
+    "id": 2,
+    "symptom": "Symptom_2",
+    "condition": "Hypertension",
+    "triage": "Routine"
+  },
+  {
+    "id": 3,
+    "symptom": "Symptom_3",
+    "condition": "Anemia",
+    "triage": "Routine"
+  },
+  {
+    "id": 4,
+    "symptom": "Symptom_4",
+    "condition": "Diabetes",
+    "triage": "Urgent"
+  },
+  {
+    "id": 5,
+    "symptom": "Symptom_5",
+    "condition": "Hypertension",
+    "triage": "Routine"
+  },
+  {
+    "id": 6,
+    "symptom": "Symptom_6",
+    "condition": "Arthritis",
+    "triage": "Routine"
+  },
+  {
+    "id": 7,
+    "symptom": "Symptom_7",
+    "condition": "Malaria",
+    "triage": "Emergency"
+  },
+  {
+    "id": 8,
+    "symptom": "Symptom_8",
+    "condition": "Pneumonia",
+    "triage": "Emergency"
+  },
+  {
+    "id": 9,
+    "symptom": "Symptom_9",
+    "condition": "Pneumonia",
+    "triage": "Emergency"
+  },
+  {
+    "id": 10,
+    "symptom": "Symptom_10",
+    "condition": "Hypertension",
+    "triage": "Emergency"
+  },
+  {
+    "id": 11,
+    "symptom": "Symptom_11",
+    "condition": "Asthma",
+    "triage": "Urgent"
+  },
+  {
+    "id": 12,
+    "symptom": "Symptom_12",
+    "condition": "Asthma",
+    "triage": "Emergency"
+  },
+  {
+    "id": 13,
+    "symptom": "Symptom_13",
+    "condition": "Hepatitis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 14,
+    "symptom": "Symptom_14",
+    "condition": "Migraine",
+    "triage": "Urgent"
+  },
+  {
+    "id": 15,
+    "symptom": "Symptom_15",
+    "condition": "Asthma",
+    "triage": "Routine"
+  },
+  {
+    "id": 16,
+    "symptom": "Symptom_16",
+    "condition": "Hypertension",
+    "triage": "Urgent"
+  },
+  {
+    "id": 17,
+    "symptom": "Symptom_17",
+    "condition": "Allergy",
+    "triage": "Emergency"
+  },
+  {
+    "id": 18,
+    "symptom": "Symptom_18",
+    "condition": "Gastritis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 19,
+    "symptom": "Symptom_19",
+    "condition": "Malaria",
+    "triage": "Routine"
+  },
+  {
+    "id": 20,
+    "symptom": "Symptom_20",
+    "condition": "Anemia",
+    "triage": "Routine"
+  },
+  {
+    "id": 21,
+    "symptom": "Symptom_21",
+    "condition": "Diabetes",
+    "triage": "Urgent"
+  },
+  {
+    "id": 22,
+    "symptom": "Symptom_22",
+    "condition": "Malaria",
+    "triage": "Urgent"
+  },
+  {
+    "id": 23,
+    "symptom": "Symptom_23",
+    "condition": "Migraine",
+    "triage": "Urgent"
+  },
+  {
+    "id": 24,
+    "symptom": "Symptom_24",
+    "condition": "Arthritis",
+    "triage": "Emergency"
+  },
+  {
+    "id": 25,
+    "symptom": "Symptom_25",
+    "condition": "Malaria",
+    "triage": "Routine"
+  },
+  {
+    "id": 26,
+    "symptom": "Symptom_26",
+    "condition": "Dehydration",
+    "triage": "Emergency"
+  },
+  {
+    "id": 27,
+    "symptom": "Symptom_27",
+    "condition": "Anemia",
+    "triage": "Emergency"
+  },
+  {
+    "id": 28,
+    "symptom": "Symptom_28",
+    "condition": "Pneumonia",
+    "triage": "Emergency"
+  },
+  {
+    "id": 29,
+    "symptom": "Symptom_29",
+    "condition": "Dehydration",
+    "triage": "Urgent"
+  },
+  {
+    "id": 30,
+    "symptom": "Symptom_30",
+    "condition": "Hepatitis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 31,
+    "symptom": "Symptom_31",
+    "condition": "Arthritis",
+    "triage": "Emergency"
+  },
+  {
+    "id": 32,
+    "symptom": "Symptom_32",
+    "condition": "Tuberculosis",
+    "triage": "Routine"
+  },
+  {
+    "id": 33,
+    "symptom": "Symptom_33",
+    "condition": "Pneumonia",
+    "triage": "Emergency"
+  },
+  {
+    "id": 34,
+    "symptom": "Symptom_34",
+    "condition": "Pneumonia",
+    "triage": "Routine"
+  },
+  {
+    "id": 35,
+    "symptom": "Symptom_35",
+    "condition": "Anemia",
+    "triage": "Emergency"
+  },
+  {
+    "id": 36,
+    "symptom": "Symptom_36",
+    "condition": "Asthma",
+    "triage": "Routine"
+  },
+  {
+    "id": 37,
+    "symptom": "Symptom_37",
+    "condition": "Tuberculosis",
+    "triage": "Routine"
+  },
+  {
+    "id": 38,
+    "symptom": "Symptom_38",
+    "condition": "Allergy",
+    "triage": "Emergency"
+  },
+  {
+    "id": 39,
+    "symptom": "Symptom_39",
+    "condition": "Dehydration",
+    "triage": "Routine"
+  },
+  {
+    "id": 40,
+    "symptom": "Symptom_40",
+    "condition": "Anemia",
+    "triage": "Urgent"
+  },
+  {
+    "id": 41,
+    "symptom": "Symptom_41",
+    "condition": "Migraine",
+    "triage": "Urgent"
+  },
+  {
+    "id": 42,
+    "symptom": "Symptom_42",
+    "condition": "Asthma",
+    "triage": "Emergency"
+  },
+  {
+    "id": 43,
+    "symptom": "Symptom_43",
+    "condition": "Allergy",
+    "triage": "Urgent"
+  },
+  {
+    "id": 44,
+    "symptom": "Symptom_44",
+    "condition": "Allergy",
+    "triage": "Emergency"
+  },
+  {
+    "id": 45,
+    "symptom": "Symptom_45",
+    "condition": "Dehydration",
+    "triage": "Routine"
+  },
+  {
+    "id": 46,
+    "symptom": "Symptom_46",
+    "condition": "Asthma",
+    "triage": "Urgent"
+  },
+  {
+    "id": 47,
+    "symptom": "Symptom_47",
+    "condition": "Arthritis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 48,
+    "symptom": "Symptom_48",
+    "condition": "Diabetes",
+    "triage": "Urgent"
+  },
+  {
+    "id": 49,
+    "symptom": "Symptom_49",
+    "condition": "Pneumonia",
+    "triage": "Urgent"
+  },
+  {
+    "id": 50,
+    "symptom": "Symptom_50",
+    "condition": "Pneumonia",
+    "triage": "Routine"
+  },
+  {
+    "id": 51,
+    "symptom": "Symptom_51",
+    "condition": "Hypertension",
+    "triage": "Routine"
+  },
+  {
+    "id": 52,
+    "symptom": "Symptom_52",
+    "condition": "Malaria",
+    "triage": "Emergency"
+  },
+  {
+    "id": 53,
+    "symptom": "Symptom_53",
+    "condition": "Hepatitis",
+    "triage": "Emergency"
+  },
+  {
+    "id": 54,
+    "symptom": "Symptom_54",
+    "condition": "Anemia",
+    "triage": "Routine"
+  },
+  {
+    "id": 55,
+    "symptom": "Symptom_55",
+    "condition": "Dehydration",
+    "triage": "Routine"
+  },
+  {
+    "id": 56,
+    "symptom": "Symptom_56",
+    "condition": "Pneumonia",
+    "triage": "Emergency"
+  },
+  {
+    "id": 57,
+    "symptom": "Symptom_57",
+    "condition": "Diabetes",
+    "triage": "Emergency"
+  },
+  {
+    "id": 58,
+    "symptom": "Symptom_58",
+    "condition": "Allergy",
+    "triage": "Routine"
+  },
+  {
+    "id": 59,
+    "symptom": "Symptom_59",
+    "condition": "Migraine",
+    "triage": "Urgent"
+  },
+  {
+    "id": 60,
+    "symptom": "Symptom_60",
+    "condition": "Migraine",
+    "triage": "Urgent"
+  },
+  {
+    "id": 61,
+    "symptom": "Symptom_61",
+    "condition": "Hypertension",
+    "triage": "Emergency"
+  },
+  {
+    "id": 62,
+    "symptom": "Symptom_62",
+    "condition": "Allergy",
+    "triage": "Emergency"
+  },
+  {
+    "id": 63,
+    "symptom": "Symptom_63",
+    "condition": "Migraine",
+    "triage": "Emergency"
+  },
+  {
+    "id": 64,
+    "symptom": "Symptom_64",
+    "condition": "Hepatitis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 65,
+    "symptom": "Symptom_65",
+    "condition": "Hepatitis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 66,
+    "symptom": "Symptom_66",
+    "condition": "Pneumonia",
+    "triage": "Urgent"
+  },
+  {
+    "id": 67,
+    "symptom": "Symptom_67",
+    "condition": "Dehydration",
+    "triage": "Urgent"
+  },
+  {
+    "id": 68,
+    "symptom": "Symptom_68",
+    "condition": "Diabetes",
+    "triage": "Routine"
+  },
+  {
+    "id": 69,
+    "symptom": "Symptom_69",
+    "condition": "Hypertension",
+    "triage": "Urgent"
+  },
+  {
+    "id": 70,
+    "symptom": "Symptom_70",
+    "condition": "Dehydration",
+    "triage": "Urgent"
+  },
+  {
+    "id": 71,
+    "symptom": "Symptom_71",
+    "condition": "Migraine",
+    "triage": "Emergency"
+  },
+  {
+    "id": 72,
+    "symptom": "Symptom_72",
+    "condition": "Anemia",
+    "triage": "Urgent"
+  },
+  {
+    "id": 73,
+    "symptom": "Symptom_73",
+    "condition": "Tuberculosis",
+    "triage": "Routine"
+  },
+  {
+    "id": 74,
+    "symptom": "Symptom_74",
+    "condition": "Allergy",
+    "triage": "Emergency"
+  },
+  {
+    "id": 75,
+    "symptom": "Symptom_75",
+    "condition": "Flu",
+    "triage": "Routine"
+  },
+  {
+    "id": 76,
+    "symptom": "Symptom_76",
+    "condition": "Migraine",
+    "triage": "Urgent"
+  },
+  {
+    "id": 77,
+    "symptom": "Symptom_77",
+    "condition": "Dehydration",
+    "triage": "Urgent"
+  },
+  {
+    "id": 78,
+    "symptom": "Symptom_78",
+    "condition": "Allergy",
+    "triage": "Urgent"
+  },
+  {
+    "id": 79,
+    "symptom": "Symptom_79",
+    "condition": "Anemia",
+    "triage": "Routine"
+  },
+  {
+    "id": 80,
+    "symptom": "Symptom_80",
+    "condition": "Arthritis",
+    "triage": "Routine"
+  },
+  {
+    "id": 81,
+    "symptom": "Symptom_81",
+    "condition": "Arthritis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 82,
+    "symptom": "Symptom_82",
+    "condition": "Arthritis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 83,
+    "symptom": "Symptom_83",
+    "condition": "Dehydration",
+    "triage": "Urgent"
+  },
+  {
+    "id": 84,
+    "symptom": "Symptom_84",
+    "condition": "COVID-19",
+    "triage": "Routine"
+  },
+  {
+    "id": 85,
+    "symptom": "Symptom_85",
+    "condition": "Pneumonia",
+    "triage": "Emergency"
+  },
+  {
+    "id": 86,
+    "symptom": "Symptom_86",
+    "condition": "Dehydration",
+    "triage": "Urgent"
+  },
+  {
+    "id": 87,
+    "symptom": "Symptom_87",
+    "condition": "Diabetes",
+    "triage": "Urgent"
+  },
+  {
+    "id": 88,
+    "symptom": "Symptom_88",
+    "condition": "Malaria",
+    "triage": "Emergency"
+  },
+  {
+    "id": 89,
+    "symptom": "Symptom_89",
+    "condition": "Gastritis",
+    "triage": "Urgent"
+  },
+  {
+    "id": 90,
+    "symptom": "Symptom_90",
+    "condition": "Malaria",
+    "triage": "Urgent"
+  },
+  {
+    "id": 91,
+    "symptom": "Symptom_91",
+    "condition": "Hypertension",
+    "triage": "Emergency"
+  },
+  {
+    "id": 92,
+    "symptom": "Symptom_92",
+    "condition": "Migraine",
+    "triage": "Emergency"
+  },
+  {
+    "id": 93,
+    "symptom": "Symptom_93",
+    "condition": "Hypertension",
+    "triage": "Routine"
+  },
+  {
+    "id": 94,
+    "symptom": "Symptom_94",
+    "condition": "Diabetes",
+    "triage": "Emergency"
+  },
+  {
+    "id": 95,
+    "symptom": "Symptom_95",
+    "condition": "Hypertension",
+    "triage": "Urgent"
+  },
+  {
+    "id": 96,
+    "symptom": "Symptom_96",
+    "condition": "Malaria",
+    "triage": "Routine"
+  },
+  {
+    "id": 97,
+    "symptom": "Symptom_97",
+    "condition": "Tuberculosis",
+    "triage": "Routine"
+  },
+  {
+    "id": 98,
+    "symptom": "Symptom_98",
+    "condition": "Flu",
+    "triage": "Routine"
+  },
+  {
+    "id": 99,
+    "symptom": "Symptom_99",
+    "condition": "Anemia",
+    "triage": "Routine"
+  },
+  {
+    "id": 100,
+    "symptom": "Symptom_100",
+    "condition": "Pneumonia",
+    "triage": "Emergency"
+  }
+]
