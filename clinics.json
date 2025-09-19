@@ -1,20 +1,82 @@
 [
   {
-    "name": "Community Health Center A",
-    "address": "123 Main Street, City",
-    "phone": "123-456-7890",
-    "services": ["general", "vaccination", "anemia"]
+    "name": "Bir Hospital",
+    "address": "Kanti Path, Kathmandu",
+    "phone": "01-4221988 / 01-4221119",
+    "services": ["general", "anemia", "vaccination"],
+    "lat": 27.7119,
+    "lon": 85.3200
   },
   {
-    "name": "Refugee Aid Clinic B",
-    "address": "45 Relief Lane, City",
-    "phone": "987-654-3210",
-    "services": ["diarrhea", "dehydration", "emergency"]
+    "name": "Kathmandu Valley Hospital",
+    "address": "Baghdarbar Marg, Kathmandu",
+    "phone": "01-4255330",
+    "services": ["general", "anemia"],
+    "lat": 27.7100,
+    "lon": 85.3195
   },
   {
-    "name": "City Hospital C",
-    "address": "78 Health Blvd, City",
-    "phone": "555-555-5555",
-    "services": ["general", "emergency", "vaccination"]
+    "name": "Civil Service Hospital",
+    "address": "Minbhawan Marg, Kathmandu",
+    "phone": "01-4793000",
+    "services": ["general", "anemia", "vaccination"],
+    "lat": 27.6810,
+    "lon": 85.3235
+  },
+  {
+    "name": "Venus Hospital",
+    "address": "Devkota Sadak, Kathmandu",
+    "phone": "01-4475120",
+    "services": ["general", "anemia"],
+    "lat": 27.6815,
+    "lon": 85.3230
+  },
+  {
+    "name": "Vayodha Hospital",
+    "address": "Balkhu, Kathmandu",
+    "phone": "01-4281666 / 01-4288404",
+    "services": ["general", "anemia", "vaccination"],
+    "lat": 27.6615,
+    "lon": 85.2900
+  },
+  {
+    "name": "Grande City Hospital",
+    "address": "Jyoti Bhawan, Kantipath, Kathmandu",
+    "phone": "01-4163500",
+    "services": ["general", "anemia", "vaccination"],
+    "lat": 27.7105,
+    "lon": 85.3205
+  },
+  {
+    "name": "Teaching Hospital",
+    "address": "Maharajgunj, Kathmandu",
+    "phone": "01-4412303",
+    "services": ["general", "anemia", "vaccination"],
+    "lat": 27.7110,
+    "lon": 85.3210
+  },
+  {
+    "name": "Kathmandu Hospital",
+    "address": "Tripureshwor Marg, Kathmandu",
+    "phone": "01-4229656",
+    "services": ["general", "anemia"],
+    "lat": 27.7100,
+    "lon": 85.3190
+  },
+  {
+    "name": "Kathmandu Neuro & General Hospital",
+    "address": "Baghdarbar Marg, Kathmandu",
+    "phone": "01-5327735",
+    "services": ["general", "anemia"],
+    "lat": 27.7102,
+    "lon": 85.3197
+  },
+  {
+    "name": "Teku Hospital",
+    "address": "Teku, Kathmandu",
+    "phone": "01-4253396",
+    "services": ["general", "anemia", "vaccination"],
+    "lat": 27.6790,
+    "lon": 85.3085
   }
 ]
